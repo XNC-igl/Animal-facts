@@ -1,0 +1,37 @@
+body {text-align:left;padding-left:30px; font-family: Arial, sans-serif;font-weight:bold; background-color: lightblue; line-height: 1.6; }
+
+.logo{font-size: 30px;}
+
+nav { display: flex; justify-content: space-between; align-items: center;background-color: lightblue; }
+
+nav ul { list-style: none; display: flex; }
+
+nav ul li { margin-left: 25px; }
+
+nav ul li a { text-decoration: none; color: lightseagreen; text-shadow: 1px 1px 1px black;font-size: 18px; }
+
+.about{padding-top:20px; font-size-adjust:.59; font-weight: bold;}
+
+.Wolves{padding-top: 90px;text-indent: 20px; max-width:fit-content; padding-bottom: 30px; }
+
+.rabbits{padding-top: 90px;text-indent: 20px; max-width:fit-content}
+
+p{text-indent:40px}
+
+h2{font-size:40px}
+
+img{border-radius: 30px;}
+
+footer{margin:0 auto;width:100%;font-size:20px;background-color: darkseagreen;padding:20px; text-align: center;}
+
+footer a{color:black;}
+
+li{padding-right: 20px;}
+
+html,body{margin: 0; padding:0;}
+
+
+
+
+
+
